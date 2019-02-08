@@ -29,12 +29,16 @@ Time to complete:
 
 ------------------------------------------------
 
-Required libraries to build / use
+Required libraries to build / use:
 
-Glassifsh System Libraries
-JRE System (JDK v1.7)
-Maven Dependencies
-Hibernate
-MySQL JDBC Driver
+* Glassifsh System Libraries
+
+* JRE System (JDK v1.7)
+
+* Maven Dependencies
+
+* Hibernate
+
+* MySQL JDBC Driver
 
 ------------------------------------------------
