@@ -28,3 +28,13 @@ Time to complete:
 2 weeks.
 
 ------------------------------------------------
+
+Required libraries to build / use
+
+Glassifsh System Libraries
+JRE System (JDK v1.7)
+Maven Dependencies
+Hibernate
+MySQL JDBC Driver
+
+------------------------------------------------
