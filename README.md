@@ -10,10 +10,15 @@ I decided to share on GitHub, so anyone can try it out and perhaps learn somethi
 Project Synopsis:
 
 A. Java EE, implenets Maven Jersey template to lay down a new JAX-RS compatible web application.
+
 B. Create servlets using the Jersey annotation libraries.
+
 C. Create a secured sub-directory on the server which requires user auth (Implements Basic Auth session Token).
+
 D. Implement request / response filter to check the header for a session token.
+
 D. Setup a new Glassfish 5.0 domain.
+
 F. Publish API.
 
 ------------------------------------------------
